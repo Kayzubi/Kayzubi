@@ -8,7 +8,7 @@
 - 🗺️ I'm based in Nigeria  
   
 
-- 🔬 I’m currently working on projects with ReactJs and Scss
+- 🔬 I’m currently working on projects with Typescript and Scss
 
 - 🌱 I’m currently learning more Javascript, React, RestAPI, Typescript
   
