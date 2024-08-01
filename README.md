@@ -8,9 +8,9 @@
 - 🗺️ I'm based in Nigeria  
   
 
-- 🔬 I’m currently working on projects with Typescript and Scss
+- 🔬 I’m currently working on projects with Angular, React and NodeJs
 
-- 🌱 I’m currently learning more Javascript, React, RestAPI, Typescript
+- 🌱 I’m currently learning more Angular and NodeJs
   
 - 📫 How to reach me: kizitoazubuike1@gmail.com  
   
