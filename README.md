@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋</div>  
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&duration=5003&pause=1000&vCenter=true&width=435&lines=I'm+Kizito..;I'm+a++Self-taught+frontend+developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+code&duration=5003&pause=1000&vCenter=true&width=435&lines=I'm+Kizito..;I'm+a++Software+developer++" alt="Typing SVG" />
 </div>  
   
 
