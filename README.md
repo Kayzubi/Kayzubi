@@ -1,6 +1,6 @@
 ### Hi there, I'm Kizito Azubuike 👋
 
-## Full-Stack Software Engineer.
+## Software Engineer.
 
 - 🗺️ I'm based in Barrie, Ontario, Canada
 - 🌱 I'm currently working a lot with Python and machine learning
