@@ -1,12 +1,12 @@
-### Hi there, I'm Kizito Azubuike 👋
+### Hi, I'm Kizito Azubuike 👋
 
 ## Software Engineer.
 
-- 🗺️ I'm based in Barrie, Ontario, Canada
+- 🗺️ I'm based in Ontario, Canada
 - 🌱 I'm currently working a lot with Python and machine learning
 - 🛠️ I build with TypeScript, Angular, React, React Native and Node.js
 - 👯 I'm open to collaborating on interesting projects
-- 💬 Ask me about full-stack, mobile and data engineering
+- 💬 Ask me about Software, mobile and data engineering
 
 ### Connect with me:
 
